@@ -1,0 +1,5 @@
+@media (max-width: 991px) {
+  #header .header-nav-main nav > ul li a.dropdown-toggle .fa-chevron-down {
+    display: none !important;
+  }
+}
