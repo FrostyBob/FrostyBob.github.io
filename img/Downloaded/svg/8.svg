@@ -1,9 +1,0 @@
-<?xml version="1.0" ?><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><defs><style>
-      .a {
-        fill: none;
-        stroke: #231f20;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 4px;
-      }
-    </style></defs><title/><g><polyline class="a" points="46 18 54 18 54 24 46 24"/><polyline class="a" points="18 24 10 24 10 18 18 18"/><rect class="a" height="6" width="44" x="10" y="38"/><path class="a" d="M18,44v7a1.00067,1.00067,0,0,0,1,1H45a.99979.99979,0,0,0,1-1V44"/><path class="a" d="M18,37.9995v-25A.99989.99989,0,0,1,18.99949,12H45a.99969.99969,0,0,1,1,.9995v25"/><line class="a" x1="10" x2="10" y1="14" y2="28"/><line class="a" x1="54" x2="54" y1="14" y2="28"/><line class="a" x1="10" x2="10" y1="34" y2="48"/><line class="a" x1="54" x2="54" y1="34" y2="48"/></g></svg>

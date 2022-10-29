@@ -1,9 +1,0 @@
-<?xml version="1.0" ?><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><defs><style>
-      .a {
-        fill: none;
-        stroke: #231f20;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 4px;
-      }
-    </style></defs><title/><g><polygon class="a" points="42 10 41.67 16 22.33 16 22 10 42 10"/><polygon class="a" points="40.33 40 40 46 24 46 23.67 40 40.33 40"/><polygon class="a" points="41.67 16 40.33 40 23.67 40 22.33 16 41.67 16"/><path class="a" d="M36,54H28a4.00018,4.00018,0,0,1-4-4V46H40v4A4.00018,4.00018,0,0,1,36,54Z"/></g></svg>
