@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .a {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style></defs><title/><g><path class="a" d="M29,13a3,3,0,0,1,6,0V40H29Z"/><path class="a" d="M20,42.0005a6,6,0,0,0,0,12H44a6,6,0,0,0,0-12"/><path class="a" d="M28.999,38H24a4,4,0,0,0,0,8H40a4,4,0,0,0,0-8H35"/></g></svg>
