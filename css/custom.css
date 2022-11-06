@@ -2,6 +2,12 @@
   #header .header-nav-main nav > ul li a.dropdown-toggle .fa-chevron-down {
     display: none !important;
   }
+  .feature-box.feature-box-style-4 .feature-box-icon {
+    justify-content: center;
+  }
+  .feature-box.feature-box-style-4 {
+    text-align: center;
+  }
 }
 
 @media (min-width: 991px) {
