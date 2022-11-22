@@ -316,17 +316,20 @@
                     <div class="col">
                       <form
                         class="contact-form form-style-2 form-errors-light"
-                        action="#home"
+                        id="contactForm"
+                        action="php/contact-form.php"
                         method="POST"
                       >
                         <div
                           class="contact-form-success alert alert-success d-none mt-4"
+                          id="contactSuccess"
                         >
                           <strong>Success!</strong> Your message has been sent
                           to us.
                         </div>
                         <div
                           class="contact-form-error alert alert-danger d-none mt-4"
+                          id="contactError"
                         >
                           <strong>Error!</strong> There was an error sending
                           your message.
@@ -346,6 +349,7 @@
                               name="name"
                               placeholder="Your Name..."
                               required
+                              id="name"
                             />
                           </div>
                           <div class="form-group col-lg-6">
@@ -372,6 +376,7 @@
                               name="message"
                               placeholder="Your Message..."
                               required
+                              id="message"
                             ></textarea>
                           </div>
                         </div>
@@ -916,6 +921,7 @@
 
     <!-- Vendor -->
     <script src="vendor/plugins/js/plugins.min.js"></script>
+    <script src="vendor/jquery.validation/jquery.validate.min.js"></script>
 
     <!-- Theme Base, Components and Settings -->
     <script src="js/theme.js"></script>
@@ -924,6 +930,7 @@
     <script src="vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
     <!-- Current Page Views -->
     <script src="js/views/view.home.js"></script>
+    <script src="js/views/view.contact.js"></script>
 
     <!-- Theme Custom -->
     <script src="js/custom.js"></script>
